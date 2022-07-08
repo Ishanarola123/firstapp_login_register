@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "126191944523",
+    "project_id": "vpnapp1-38344",
+    "storage_bucket": "vpnapp1-38344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126191944523:android:6c53e37e5787ebd5e45ece",
+        "android_client_info": {
+          "package_name": "com.example.task1_vpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126191944523-onhun6rnd9tfp7nri7g9hlcalutt7j0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ-KmHJc531IDeBp6KRcbdqDhKjyOlIuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126191944523-onhun6rnd9tfp7nri7g9hlcalutt7j0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

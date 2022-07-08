@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".forgot_request_profile">
+
+    <FrameLayout
+        android:id="@+id/layoutImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        >
+
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:id="@+id/imageprofile"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:background="@drawable/background_image"
+            app:riv_oval="true"
+
+            />
+        <TextView
+            android:id="@+id/textAddimaage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="add image"
+            android:textSize="10dp"
+            android:textColor="#757575"
+            tools:ignore="InvalidId" />
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:orientation="vertical"
+        android:background="@drawable/shape_login_fetchdata"
+        >
+ <EditText
+    android:id="@+id/username_fetch"
+    android:layout_width="350dp"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="50dp"
+    android:layout_marginLeft="30dp"
+    android:text=""
+    android:drawableLeft="@drawable/ic_baseline_account_circle_24"
+    android:drawableTint="@color/orange"
+     android:hint="username"
+     android:drawablePadding="15dp"
+    />
+
+        <EditText
+            android:id="@+id/email_fetch"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:hint="email"
+            android:layout_marginLeft="30dp"
+            android:text=""
+            android:drawableLeft="@drawable/ic_baseline_email_24"
+            android:drawableTint="@color/orange"
+            android:drawablePadding="15dp"
+            />
+
+        <EditText
+            android:id="@+id/mobileno_fetch"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:hint="mobileno"
+            android:layout_marginLeft="30dp"
+            android:text=""
+            android:drawablePadding="15dp"
+            android:drawableLeft="@drawable/ic_baseline_local_phone_24"
+            android:drawableTint="@color/orange"
+            tools:ignore="DuplicateIds" />
+
+        <EditText
+            android:id="@+id/gender_fetch"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:hint="gender"
+            android:layout_marginLeft="30dp"
+            android:text=""
+            android:drawableLeft="@drawable/ic_baseline_support_agent_24"
+            android:drawableTint="@color/orange"
+            android:drawablePadding="15dp"
+            />
+    </LinearLayout>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/changepassword"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:text="Change Password"
+        android:textSize="20dp"
+        android:backgroundTint="@color/orange"
+        android:layout_marginTop="25dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        app:cornerRadius="10dp"
+        android:textAllCaps="false"
+        />
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/logout"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:text="Logout"
+        android:textSize="20dp"
+        android:backgroundTint="@color/orange"
+        android:layout_marginTop="25dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        app:cornerRadius="10dp"
+        android:textAllCaps="false"
+        />
+
+
+
+</LinearLayout>

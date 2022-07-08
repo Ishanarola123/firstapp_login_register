@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/task1_vpn/app/src/main/res/drawable/background.xml" value="0.24871794871794872" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/task1_vpn/app/src/main/res/drawable/background_image.xml" value="0.13177083333333334" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/task1_vpn/app/src/main/res/drawable/background_input.xml" value="0.13177083333333334" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/task1_vpn/app/src/main/res/drawable/custom_button.xml" value="0.24871794871794872" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/task1_vpn/app/src/main/res/drawable/forgotpass_btn.xml" value="0.24871794871794872" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/task1_vpn/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.24871794871794872" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/task1_vpn/app/src/main/res/drawable/img_forgotpass.xml" value="0.24871794871794872" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/task1_vpn/app/src/main/res/drawable/profile_fetch_data_shadow.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/task1_vpn/app/src/main/res/drawable/shape_login_fetchdata.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/task1_vpn/app/src/main/res/layout/activity_changepassword.xml" value="0.16141732283464566" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/task1_vpn/app/src/main/res/layout/activity_forgot_request_profile.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/task1_vpn/app/src/main/res/layout/activity_forgotpassword.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/task1_vpn/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/task1_vpn/app/src/main/res/layout/activity_logout.xml" value="0.115625" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/task1_vpn/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/task1_vpn/app/src/main/res/layout/activity_signup.xml" value="0.1793478260869565" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
